@@ -1,18 +1,18 @@
-# Hi there! I'm [Zehra GÜLMÜŞ] 👋
+# Hi there! I'm Zehra GÜLMÜŞ👋
 
 ### 👨‍💻 About Me
-- 🎓 **[Computer Engineering]** student at **[Kocaeli University]**.
-- 🌱 I’m currently learning **[Python]**.
+- 🎓 **Computer Engineering** student at **Kocaeli University**.
+- 🌱 I’m currently learning **Python**.
 
 ---
 
 ### 🛠️ My Tech Stack & Tools
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `[C]`, `[Java]`, `[C#]` |
-| **Frameworks/Libs** | `[SDL2]`, `[.NET]` |
-| **Tools & DBs** | `[Git]`, `[VS Code]` |
-| **Design/Others** | `[Unity]`, `[LIDAR Data Processing]`, `[OOP]`, `[Computer Graphics]` |
+| **Languages** | `C`, `Java`, `C#` |
+| **Frameworks/Libs** | `SDL2`, `.NET` |
+| **Tools & DBs** | `Git`, `VS Code` |
+| **Design/Others** | `Unity`, `LIDAR Data Processing`, `OOP`, `Computer Graphics` |
 
 ---
 
@@ -29,5 +29,5 @@
 ---
 
 ### 📫 Let's Connect
-- 💼 **LinkedIn:** [LinkedIn](https://linkedin.com/in/zehragulmus)
-- 📧 **Email:** [[zehragulmus25@gmail.com]]
+- 💼 **LinkedIn:** [zehragulmus](https://linkedin.com/in/zehragulmus)
+- 📧 **Email:** zehragulmus25@gmail.com
