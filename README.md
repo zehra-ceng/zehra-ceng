@@ -24,10 +24,10 @@
 
 ### 🌍 Languages
 - **[Turkish]**: Native
-- **[English]**: [Level: Intermediate]
+- **[English]**: Level: Intermediate
 
 ---
 
 ### 📫 Let's Connect
-- 💼 **LinkedIn:** [[zehragulmus]](https://linkedin.com/in/[zehragulmus])
+- 💼 **LinkedIn:** [LinkedIn](https://linkedin.com/in/zehragulmus)
 - 📧 **Email:** [[zehragulmus25@gmail.com]]
