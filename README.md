@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! I'm [Zehra GÜLMÜŞ] 👋
 
-<!--
-**zehra-ceng/zehra-ceng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🎓 **[Computer Engineering]** student at **[Kocaeli University]**.
+- 🌱 I’m currently learning **[Python]**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack & Tools
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `[C]`, `[Java]`, `[C#]` |
+| **Frameworks/Libs** | `[SDL2]`, `[.NET]` |
+| **Tools & DBs** | `[Git]`, `[VS Code]` |
+| **Design/Others** | `[Unity]`, `[LIDAR Data Processing]`, `[OOP]`, `[Computer Graphics]` |
+
+---
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[zehra-ceng]&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[zehra-ceng]&layout=compact&theme=dark)
+
+---
+
+### 🌍 Languages
+- **[Turkish]**: Native
+- **[English]**: [Level: Intermediate]
+
+---
+
+### 📫 Let's Connect
+- 💼 **LinkedIn:** [[zehragulmus]](https://linkedin.com/in/[zehragulmus])
+- 📧 **Email:** [[zehragulmus25@gmail.com]]
