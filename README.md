@@ -23,8 +23,8 @@
 ---
 
 ### 🌍 Languages
-- **[Turkish]**: Native
-- **[English]**: Level: Intermediate
+- **Turkish**: Native
+- **English**: Level: Intermediate
 
 ---
 
